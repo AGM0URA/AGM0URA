@@ -9,9 +9,9 @@ Me chamo André Gomes Moura, tenho 18 anos. Concluí o ensino médio no SESI/SEN
         <img 
             alt="Linkedin" 
             title="Linkedin" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
-            width="40" 
-            height="40"
+            src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)"
+            width="50" 
+            height="50"
         />
     </a>
 </p>
