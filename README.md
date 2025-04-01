@@ -5,11 +5,11 @@
 Me chamo André Gomes Moura, tenho 18 anos. Concluí o ensino médio no SESI/SENAI, com o curso técnico em informática para internet. Atualmente, estou cursando Ciências da computação na UNINASSAU. Desde cedo, a tecnologia me fascinou, e a programação se tornou minha principal ferramenta para transformar ideias em realidade. Gosto de resolver problemas, explorar novas tecnologias e aprimorar constantemente minhas habilidades.
 
 <p align="left">
-    <a href="[www.linkedin.com/in/andrégomesmoura](https://www.linkedin.com/in/andr%C3%A9gomesmoura/)](https://www.linkedin.com/in/andr%C3%A9gomesmoura/)">
+    <a href="https://www.linkedin.com/in/andr%C3%A9gomesmoura/">
         <img 
             alt="Linkedin" 
             title="Linkedin" 
-            src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
             width="50" 
             height="50"
         />
