@@ -9,7 +9,7 @@ Me chamo André Gomes Moura, tenho 18 anos. Concluí o ensino médio no SESI/SEN
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/AGM0URA?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
         />
     </a>
     <a href="https://github.com/AGM0URA?tab=followers">
